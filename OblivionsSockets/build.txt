@@ -1,0 +1,3 @@
+displayName = Oblivion's Socket Integration
+author = Oblivion Studios
+version = 0.1

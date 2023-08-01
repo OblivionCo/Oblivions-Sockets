@@ -1,0 +1,2 @@
+7/31/2023~
+Generated skeleton mod files from tmodloader, explored test weapon properties.
