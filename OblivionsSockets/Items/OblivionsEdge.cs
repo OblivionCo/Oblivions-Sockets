@@ -24,6 +24,7 @@ namespace OblivionsSockets.Items
 			Item.autoReuse = true;
 		}
 
+		/*
 		public override void ModifyHitPlayer( Player target, ref int damage, ref bool crit )
 		{
 			target.AddBuff( mod.BuffType( "Frozen" ), 240 );
@@ -32,6 +33,7 @@ namespace OblivionsSockets.Items
 		{
 			target.AddBuff( mod.BuffType( "Frozen" ), 240 );
 		}
+		*/
 
 		public override void AddRecipes()
 		{
