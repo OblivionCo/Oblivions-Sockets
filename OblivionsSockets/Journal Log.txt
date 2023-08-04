@@ -1,2 +1,5 @@
 7/31/2023~
 Generated skeleton mod files from tmodloader, explored test weapon properties.
+
+8/3/2023~
+Tried to add Custom NPC skeleton, throwing errors
